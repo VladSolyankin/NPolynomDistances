@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPolynomDistances", "NPolynomDistances.csproj", "{7B4ACE0D-95A4-46D6-B0B3-9372BAB317CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B4ACE0D-95A4-46D6-B0B3-9372BAB317CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4ACE0D-95A4-46D6-B0B3-9372BAB317CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4ACE0D-95A4-46D6-B0B3-9372BAB317CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4ACE0D-95A4-46D6-B0B3-9372BAB317CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DF736E4-389C-4183-AC67-458BF4A3CFA6}
+	EndGlobalSection
+EndGlobal
